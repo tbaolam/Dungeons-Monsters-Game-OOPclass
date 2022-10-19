@@ -1,5 +1,5 @@
 # Dungeons-Monsters-Game-OOPclass
-# A gamethat allows a user to explore a dungeon maze and fight monsters that
+A gamethat allows a user to explore a dungeon maze and fight monsters that
 they encounter along the way.
 
 Play example:
